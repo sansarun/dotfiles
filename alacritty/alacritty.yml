@@ -1,0 +1,42 @@
+font:
+  normal:
+    family: "MesloLGS NF"
+  size: 13.5
+
+  use_thin_strokes: true
+
+window:
+  padding:
+    x: 5
+    y: 0
+
+  startup_mode: Maximized
+
+
+colors:
+  # Default colors
+  primary:
+    background: '#1d1f21'
+    foreground: '#b8dbef'
+
+  # Normal colors
+  normal:
+    black:   '#1d1d19'  # Arbitrary
+    red:     '#f18339'
+    green:   '#9fd364'
+    yellow:  '#f4ef6d'
+    blue:    '#5096be'
+    magenta: '#695abc'  # Dark pink of the original material theme
+    cyan:    '#d63865'
+    white:   '#ffffff'  # Arbitrary
+
+  # Bright colors
+  bright:
+    black:   '#1d1d19'  # Arbitrary
+    red:     '#d22a24'
+    green:   '#a7d42c'
+    yellow:  '#ff8949'
+    blue:    '#61b9d0'
+    magenta: '#695abc'  # Pink of the original material theme
+    cyan:    '#d63865'
+    white:   '#ffffff'  # Arbitrary
